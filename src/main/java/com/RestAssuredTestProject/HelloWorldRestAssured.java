@@ -1,11 +1,11 @@
 package com.RestAssuredTestProject;
 
-import org.junit.Test;
+//
 
 import static io.restassured.RestAssured.*;
 import static io.restassured.matcher.RestAssuredMatchers.*;
-import static io.restassured.module.jsv.JsonSchemaValidator.*;
 import static org.hamcrest.Matchers.*;
+import org.junit.Test;
 /**
  * Created by Sarb on 12/7/2017.
  */
